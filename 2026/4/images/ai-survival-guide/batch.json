@@ -1,0 +1,47 @@
+{
+  "jobs": 3,
+  "tasks": [
+    {
+      "id": "01-four-moats",
+      "promptFiles": ["prompts/01-framework-four-moats.md"],
+      "image": "01-framework-four-moats.png",
+      "ar": "16:9"
+    },
+    {
+      "id": "02-ai-capability",
+      "promptFiles": ["prompts/02-comparison-ai-capability.md"],
+      "image": "02-comparison-ai-capability.png",
+      "ar": "16:9"
+    },
+    {
+      "id": "03-pyramid-diamond",
+      "promptFiles": ["prompts/03-framework-pyramid-diamond.md"],
+      "image": "03-framework-pyramid-diamond.png",
+      "ar": "16:9"
+    },
+    {
+      "id": "04-identity-crisis",
+      "promptFiles": ["prompts/04-flowchart-identity-crisis.md"],
+      "image": "04-flowchart-identity-crisis.png",
+      "ar": "16:9"
+    },
+    {
+      "id": "05-plan-b",
+      "promptFiles": ["prompts/05-flowchart-plan-b.md"],
+      "image": "05-flowchart-plan-b.png",
+      "ar": "16:9"
+    },
+    {
+      "id": "06-core-cognition",
+      "promptFiles": ["prompts/06-framework-core-cognition.md"],
+      "image": "06-framework-core-cognition.png",
+      "ar": "16:9"
+    },
+    {
+      "id": "07-action-list",
+      "promptFiles": ["prompts/07-framework-action-list.md"],
+      "image": "07-framework-action-list.png",
+      "ar": "16:9"
+    }
+  ]
+}
