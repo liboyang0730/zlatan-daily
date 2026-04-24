@@ -1,1 +1,1 @@
-# zlatan-daliy
+# zlatan-daily
